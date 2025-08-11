@@ -5,7 +5,8 @@ public class Veiculo {
         int ano;
         
         public void buzinar() {
-            System.out.println("Buzinando...");
+            System.out.println("Buzina do veículo");
     }
+    
 }
 

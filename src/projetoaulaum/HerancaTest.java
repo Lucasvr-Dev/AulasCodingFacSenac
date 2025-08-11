@@ -23,7 +23,7 @@ public class HerancaTest {
         carro1.portas = 4;
 
         // Métodos herdados e próprios da classe Carro
-        carro1.exerbirInformacoes(); // Exibe as informações do carro, incluindo os atributos herdados e o atributo
+        carro1.exibirInformacoes(); // Exibe as informações do carro, incluindo os atributos herdados e o atributo
                                      // específico da classe Carro.
         carro1.buzinar();
 
