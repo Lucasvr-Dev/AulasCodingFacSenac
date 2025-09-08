@@ -2,7 +2,7 @@ package projetoaulaum;
 
 import java.util.Scanner;
 
-public class MainTest1 {
+public class MainTestOne {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a,b,total;
